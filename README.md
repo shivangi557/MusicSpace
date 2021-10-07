@@ -3,5 +3,7 @@ An online music player which provides a new and customized music listening exper
 
 # Screenshots
 ![image](https://user-images.githubusercontent.com/61706649/136406312-5fd5d62e-149d-4ddc-a812-73da7ba2fb3f.png)
+![image](https://user-images.githubusercontent.com/61706649/136406767-78f0e613-aca4-4c0a-b521-b8ce7ce3da36.png)
+
 
 

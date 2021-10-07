@@ -8,11 +8,7 @@ An online music player which provides a new and customized music listening exper
 ![image](https://user-images.githubusercontent.com/61706649/136412548-cc491098-2cec-48a4-a025-e652395e3cb5.png)![image](https://user-images.githubusercontent.com/61706649/136417540-d483646a-4c60-4974-a03e-ec7047631527.png)![image](https://user-images.githubusercontent.com/61706649/136417572-50efb671-0aac-4a93-bef3-c57c33d23a29.png)![image](https://user-images.githubusercontent.com/61706649/136412429-7f77fdac-cba9-485c-a4cd-d45c55b4e0eb.png)
 
 
-![image](https://user-images.githubusercontent.com/61706649/136413304-e6e42a44-6a08-4be7-be2e-2a21c609b1c3.png)
-![image](https://user-images.githubusercontent.com/61706649/136416647-06819897-4475-4fa6-a569-4778338acb52.png)
-![image](https://user-images.githubusercontent.com/61706649/136416666-74a85a30-72ab-4dc6-918a-1e6a190ed9a1.png)
-![image](https://user-images.githubusercontent.com/61706649/136416715-493750ee-3963-4b6d-bf55-f5c3a01a0670.png)
-![image](https://user-images.githubusercontent.com/61706649/136416732-ec3b8c63-a669-4e06-8dfa-d0949a3ff394.png)
+![image](https://user-images.githubusercontent.com/61706649/136413304-e6e42a44-6a08-4be7-be2e-2a21c609b1c3.png)![image](https://user-images.githubusercontent.com/61706649/136418048-77fc3d29-1ddc-4c13-9b76-c8269bb45de4.png)![image](https://user-images.githubusercontent.com/61706649/136418013-6d578a71-79a8-47cf-ae60-d3c8014328a8.png)![image](https://user-images.githubusercontent.com/61706649/136417960-1cf5d1b3-10a2-48cf-a555-17adb31af771.png)![image](https://user-images.githubusercontent.com/61706649/136417928-adf0ba27-eb66-4dec-a7e8-5a4dbfadc2b7.png)
 
 
 ![image](https://user-images.githubusercontent.com/61706649/136416831-1d166a37-d767-4b51-be98-c1c63de92d4c.png)
